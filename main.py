@@ -19,7 +19,7 @@ class Product:
 
 users = [
     User("jia", "jia498627", "Admin"),
-    User("javeriaamjad", "javeriaamjad", "User")
+    User("javeriaamjad", "javeria498627", "User")
 ]
 
 
